@@ -1,0 +1,72 @@
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\AutenticacaoAspNet.dll.config
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\AutenticacaoAspNet.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\AutenticacaoAspNet.pdb
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\EntityFramework.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.Security.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Owin.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Helpers.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Mvc.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Razor.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Webpages.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\EntityFramework.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.Security.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Razor.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Webpages.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Helpers.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\bin\System.Web.Mvc.xml
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.csproj.CopyComplete
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.dll
+C:\Users\Lucas\Downloads\Asp.NET  MVC Autenticacao(Owin)\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.pdb
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\AutenticacaoAspNet.dll.config
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\AutenticacaoAspNet.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\AutenticacaoAspNet.pdb
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\EntityFramework.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\EntityFramework.SqlServer.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.Security.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Owin.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Helpers.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Mvc.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Razor.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Webpages.Deployment.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Webpages.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Webpages.Razor.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\EntityFramework.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\EntityFramework.SqlServer.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.Security.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Razor.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Webpages.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Webpages.Deployment.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Webpages.Razor.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Helpers.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\bin\System.Web.Mvc.xml
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.csproj.AssemblyReference.cache
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.csproj.CoreCompileInputs.cache
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.csproj.CopyComplete
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.dll
+E:\Projetos\ASP_Login_Autenticação\AutenticacaoAspNet\obj\Debug\AutenticacaoAspNet.pdb

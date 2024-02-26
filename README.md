@@ -6,8 +6,9 @@
 * OWIN
 
  ## Execução do Entity Framework nas IDE's: VS 2015/2017:
- 
- Ao realizar os comandos:
+<details>
+  <summary>Clique para mostrar conteúdo</summary>
+   Ao realizar os comandos:
  
   ```
     Enable-Migrations
@@ -50,13 +51,24 @@ Web.Config
 
 ```
 
+
+</details>
+
+
+
+ 
+
+
  ## Criação do Banco de Dados.
 
  Criar Banco de Dados DBUsuarios.
 
 
  ## Inicialização de aplicativo
- 
+
+ <details>
+  <summary>Clique para mostrar conteúdo</summary>
+  
 Configuração da inicialização do aplicativo implementando OWIN
 
 ```
@@ -77,9 +89,16 @@ O antifogery token é um sistema para identificar o usuário e evitar que sites 
 
 ```
 
+</details>
+ 
+
+
  ## Controllers
 
-  ### AutenticacaoController.cs
+ <details>
+  <summary>Clique para mostrar conteúdo</summary>
+  
+### AutenticacaoController.cs
 
 Responsável pelo Cadastro e Login, criando um cookie de autenticação através do Claim com Nome e Login
 ```
@@ -134,23 +153,37 @@ Identity possui varios claims mas no Autenticacao/login existe um claim com logi
 var login = identity.Claims.FirstOrDefault(c => c.Type == "Login").Value;
 ```
 
+</details>
+
+
+  
+
 ## Resultado
 
-### Login 
+<div align="center">
+ <h3>Login</h3>
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/eadef139-4faa-466b-bc60-89ba467d175d" style="width:100%">
+</div>
 
-<img src="https://cdn.discordapp.com/attachments/1046824853015113789/1204173567449628823/image.png?ex=65d3c506&is=65c15006&hm=ffb439efc2b5e44dc2ac4b9333ceaeb27277008ccea1f1deb0e65f810363860c&" alt="">
 
-### Cadastro 
+<div align="center">
+  <h3>Cadastro</h3>
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/f8c91505-2b2f-4a57-8ca4-06f0cb0cf38c" style="width:100%">
+</div>
 
-<img src="https://cdn.discordapp.com/attachments/1046824853015113789/1204173773490880572/image.png?ex=65d3c538&is=65c15038&hm=bc1ae3325eb5de0795543a2319cb3197abcc7f2de6c36c4022acf3e9444827a5&" alt="">
 
-### Registro realizado com sucesso 
+<div align="center">
+ <h3>Registro realizado com sucesso</h3>
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/a70603a4-4f62-4f15-a3ed-8c8de43f84e8" style="width:100%">
+</div>
 
-<img src="https://cdn.discordapp.com/attachments/1046824853015113789/1204174080765329468/image.png?ex=65d3c581&is=65c15081&hm=a7458a1b311f831419d0ed8a63476bab4351f0955165995e21b1093cfd42e6b0&" alt="">
 
-### Autenticado
 
-<img src="https://cdn.discordapp.com/attachments/1046824853015113789/1204174208116985896/image.png?ex=65d3c59f&is=65c1509f&hm=f4f68f46a17c6500992afd2f1e85e80aaebf65b609c792987f525dc26525427d&" alt="">
+<div align="center">
+ <h3>Autenticado</h3>
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/f8546b03-49b1-4725-b153-e88e2cd0941d" style="width:100%">
+</div>
+
 
 
 

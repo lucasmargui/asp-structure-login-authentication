@@ -9,25 +9,25 @@
 
 <div align="center">
   <h3>Login</h3>
-<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/eadef139-4faa-466b-bc60-89ba467d175d" style="width:100%">
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/eadef139-4faa-466b-bc60-89ba467d175d" style="width:70%">
 </div>
 
 
 <div align="center">
    <h3>Registration</h3>
-<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/f8c91505-2b2f-4a57-8ca4-06f0cb0cf38c" style="width:100%">
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/f8c91505-2b2f-4a57-8ca4-06f0cb0cf38c" style="width:70%">
 </div>
 
 
 <div align="center">
   <h3>Registration completed successfully</h3>
-<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/a70603a4-4f62-4f15-a3ed-8c8de43f84e8" style="width:100%">
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/a70603a4-4f62-4f15-a3ed-8c8de43f84e8" style="width:70%">
 </div>
 
 
 <div align="center">
   <h3>Authenticated</h3>
-<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/f8546b03-49b1-4725-b153-e88e2cd0941d" style="width:100%">
+<img src="https://github.com/lucasmargui/ASP_Login_Autenticacao/assets/157809964/f8546b03-49b1-4725-b153-e88e2cd0941d" style="width:70%">
 </div>
 
 
